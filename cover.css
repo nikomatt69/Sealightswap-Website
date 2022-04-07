@@ -25,6 +25,11 @@ body {
   max-width: 42em;
 }
 
+img {
+  width: 320px;
+  text-align: center;
+}
+
 
 /*
  * Header
