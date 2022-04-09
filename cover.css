@@ -22,7 +22,11 @@ body {
   box-shadow: inset  rgba(0, 0, 0, .5);
   text-align: center;
 }
+ 
+p{
 
+  text-size: 14px;
+}
 .cover-container {
   max-width: 42em;
 }
