@@ -17,17 +17,13 @@
  */
 
 body {
+
   text-shadow:  rgba(0, 0, 0, .5);
-  box-shadow: rgba(0, 0, 0, .5);
+  box-shadow: inset  rgba(0, 0, 0, .5);
 }
 
 .cover-container {
   max-width: 42em;
-}
-
-img {
-  width: 320px;
-  text-align: center;
 }
 
 
@@ -56,3 +52,21 @@ img {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.claim {
+
+}
+.background-image {
+  text-align: center;
+
+}
+
+img {
+  width: 320px;
+  text-align: center;
+}
+
+.bottom-container{
+    background-color: #EFDAD7;
+    font-family: 'Montserrat', sans-serif;
+    margin-top:20px;
