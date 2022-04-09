@@ -20,6 +20,7 @@ body {
 
   text-shadow:  rgba(0, 0, 0, .5);
   box-shadow: inset  rgba(0, 0, 0, .5);
+  text-align: center;
 }
 
 .cover-container {
