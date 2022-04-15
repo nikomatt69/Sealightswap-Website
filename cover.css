@@ -59,13 +59,20 @@ p{
 }
 
 #claim {
-  padding:8%;
+  padding-bottom:8%;
 
 }
 .background-image {
   text-align: center;
 
 }
+
+#intro-dex{
+  padding-bottom:10%;
+  padding-top:10%;
+
+}
+
 
 img {
   width: 320px;
