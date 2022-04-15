@@ -22,7 +22,7 @@ body {
   box-shadow: inset  rgba(0, 0, 0, .5);
   text-align: center;
 }
- 
+
 p{
 
   text-size: 12px;
@@ -75,9 +75,9 @@ p{
 
 
 img {
-  width: 320px;
+  width: 400px;
   text-align: center;
-  padding-bottom :3%;
+  padding-bottom :14%;
 }
 
 footer{
@@ -85,5 +85,20 @@ footer{
 }
 
 a{
-  padding:4%;
+  color: #1E1E1E;
+  text-shadow: none
+
+}
+
+#claim-nft{
+
+  background-color:#343a40;
+  color:#fff;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+
+.lead{
+
+  padding-bottom: 13%;
 }
